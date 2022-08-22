@@ -1,0 +1,58 @@
+body {
+    background-color: #d6dadb !important;
+}
+
+#col-1 {
+    box-shadow: 0px 3px 4px 1px rgb(94, 93, 93) !important;
+}
+
+#one {
+    background-color: lightblue !important;
+}
+
+#two {
+    box-shadow: 1px 2px 4px gray !important;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.bi-brightness-high-fill:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+@media (max-width:375px) {
+    .title {
+        font-size: 23px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
