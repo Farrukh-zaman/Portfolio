@@ -24,35 +24,21 @@ body {
     color: blue;
 }
 
-@media (max-width:375px) {
-    .title {
-        font-size: 23px;
+
+@media all and (max-width:576px) {
+    .front {
+        font-size: 16px;
     }
 }
 
 
 
+@media (max-width:375px) {
+    .title {
+        font-size: 23px;
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .text {
+        font-size: 13px;
+    }
+}
